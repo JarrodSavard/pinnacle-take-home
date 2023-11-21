@@ -1,0 +1,222 @@
+[
+    {
+        "id": 1,
+        "name": "Classic BLT",
+        "ingredients": [
+            "Bacon",
+            "Lettuce",
+            "Tomato",
+            "Bread",
+            "Mayonnaise"
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Turkey Club",
+        "ingredients": [
+            "Turkey",
+            "Bacon",
+            "Lettuce",
+            "Tomato",
+            "Mayonnaise",
+            "Bread"
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Grilled Cheese",
+        "ingredients": [
+            "Bread",
+            "Cheese",
+            "Butter"
+        ]
+    },
+    {
+        "id": 4,
+        "name": "Tuna Salad Sandwich",
+        "ingredients": [
+            "Tuna",
+            "Mayonnaise",
+            "Celery",
+            "Onion",
+            "Bread"
+        ]
+    },
+    {
+        "id": 5,
+        "name": "Italian Sub",
+        "ingredients": [
+            "Salami",
+            "Ham",
+            "Cheese",
+            "Lettuce",
+            "Tomato",
+            "Onion",
+            "Italian Dressing",
+            "Sub Roll"
+        ]
+    },
+    {
+        "id": 6,
+        "name": "Egg Salad Sandwich",
+        "ingredients": [
+            "Egg Salad",
+            "Lettuce",
+            "Tomato",
+            "Bread"
+        ]
+    },
+    {
+        "id": 7,
+        "name": "Chicken Salad Sandwich",
+        "ingredients": [
+            "Chicken Salad",
+            "Lettuce",
+            "Bread"
+        ]
+    },
+    {
+        "id": 8,
+        "name": "Roast Beef Sandwich",
+        "ingredients": [
+            "Roast Beef",
+            "Mustard",
+            "Lettuce",
+            "Tomato",
+            "Bread"
+        ]
+    },
+    {
+        "id": 9,
+        "name": "Veggie Burger",
+        "ingredients": [
+            "Veggie Patty",
+            "Lettuce",
+            "Tomato",
+            "Onion",
+            "Ketchup",
+            "Bun"
+        ]
+    },
+    {
+        "id": 10,
+        "name": "Meatball Sub",
+        "ingredients": [
+            "Meatballs",
+            "Marinara Sauce",
+            "Cheese",
+            "Sub Roll"
+        ]
+    },
+    {
+        "id": 11,
+        "name": "Peanut Butter and Jelly",
+        "ingredients": [
+            "Peanut Butter",
+            "Jelly",
+            "Bread"
+        ]
+    },
+    {
+        "id": 12,
+        "name": "Ham and Cheese",
+        "ingredients": [
+            "Ham",
+            "Cheese",
+            "Mustard",
+            "Bread"
+        ]
+    },
+    {
+        "id": 13,
+        "name": "Reuben",
+        "ingredients": [
+            "Corned Beef",
+            "Sauerkraut",
+            "Swiss Cheese",
+            "Russian Dressing",
+            "Rye Bread"
+        ]
+    },
+    {
+        "id": 14,
+        "name": "Falafel Wrap",
+        "ingredients": [
+            "Falafel",
+            "Hummus",
+            "Tomato",
+            "Cucumber",
+            "Lettuce",
+            "Tahini",
+            "Wrap"
+        ]
+    },
+    {
+        "id": 15,
+        "name": "Club Sandwich",
+        "ingredients": [
+            "Turkey",
+            "Bacon",
+            "Lettuce",
+            "Tomato",
+            "Mayonnaise",
+            "Bread"
+        ]
+    },
+    {
+        "id": 16,
+        "name": "French Dip",
+        "ingredients": [
+            "Roast Beef",
+            "Au Jus",
+            "Hoagie Roll"
+        ]
+    },
+    {
+        "id": 17,
+        "name": "Monte Cristo",
+        "ingredients": [
+            "Ham",
+            "Turkey",
+            "Swiss Cheese",
+            "Bread",
+            "Egg Batter"
+        ]
+    },
+    {
+        "id": 18,
+        "name": "Banh Mi",
+        "ingredients": [
+            "Pork",
+            "Pickled Vegetables",
+            "Cilantro",
+            "Jalapeño",
+            "Mayonnaise",
+            "Baguette"
+        ]
+    },
+    {
+        "id": 19,
+        "name": "Cuban Sandwich",
+        "ingredients": [
+            "Roasted Pork",
+            "Ham",
+            "Swiss Cheese",
+            "Pickles",
+            "Mustard",
+            "Cuban Bread"
+        ]
+    },
+    {
+        "id": 20,
+        "name": "Avocado Toast",
+        "ingredients": [
+            "Avocado",
+            "Tomato",
+            "Egg",
+            "Bread",
+            "Salt",
+            "Pepper"
+        ]
+    }
+]
