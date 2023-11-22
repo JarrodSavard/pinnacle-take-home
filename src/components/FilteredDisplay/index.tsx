@@ -1,10 +1,9 @@
-import {useContext} from "react";
-import {SandwichContext} from "../../context/sandwichContext";
+import {useSandwichStore} from "../../store/sandwichStore";
 import {Dropdown} from "../Dropdown";
 import styles from "./index.module.css";
 
 export const FilteredDisplay = () => {
-    const {sandwiches} = useContext(SandwichContext);
+    const {sandwiches} = useSandwichStore();
 
     return (
         <div className={styles.filteredDisplayContainer}>

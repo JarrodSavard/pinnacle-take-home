@@ -1,14 +1,14 @@
-import React, {useContext, useState} from "react";
+import React, {useState} from "react";
 import {CiSearch} from "react-icons/ci";
-import {SandwichContext} from "../../context/sandwichContext";
 import sandwichesData from "../../fakeData/sandwiches.json";
+import {useSandwichStore} from "../../store/sandwichStore";
 import {filterAndSortSandwiches} from "../../utilities/helpers";
 import styles from "./index.module.css";
 
 export const SearchBar = () => {
     const [query, setQuery] = useState<string>("");
     const [timer, setTimer] = useState<number | null>(null);
-    const {setSandwiches} = useContext(SandwichContext);
+    const setSandwiches = useSandwichStore((state) => state.setSandwiches);
 
     const handleInputChange = (event: React.ChangeEvent<HTMLInputElement>) => {
         const inputValue = event.target.value;
