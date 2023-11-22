@@ -12,7 +12,7 @@ export const SearchBar = () => {
 
     const handleInputChange = (event: React.ChangeEvent<HTMLInputElement>) => {
         const inputValue = event.target.value;
-        setQuery(inputValue.trim());
+        setQuery(inputValue);
 
         if (timer) {
             clearTimeout(timer);
